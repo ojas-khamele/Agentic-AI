@@ -1,0 +1,47 @@
+Player Performance Summary:
+Hugo Lloris (France): Rating: 5.9, Goals: None, Assists: None, Shots: None, Passes: 25, Tackles: None
+Benjamin Pavard (France): Rating: 7, Goals: 1, Assists: None, Shots: 1, Passes: 23, Tackles: 3
+Raphaël Varane (France): Rating: 6.7, Goals: None, Assists: None, Shots: None, Passes: 36, Tackles: None
+Samuel Umtiti (France): Rating: 6.5, Goals: None, Assists: None, Shots: None, Passes: 44, Tackles: 1
+Lucas Hernández (France): Rating: 6.2, Goals: None, Assists: 1, Shots: None, Passes: 15, Tackles: 5
+Paul Pogba (France): Rating: 7, Goals: None, Assists: None, Shots: 1, Passes: 44, Tackles: 2
+N'Golo Kanté (France): Rating: 7.2, Goals: None, Assists: None, Shots: None, Passes: 54, Tackles: 3
+Kylian Mbappé (France): Rating: 9.2, Goals: 2, Assists: None, Shots: 2, Passes: 25, Tackles: 1
+Antoine Griezmann (France): Rating: 6.9, Goals: 1, Assists: None, Shots: 3, Passes: 21, Tackles: 1
+Blaise Matuidi (France): Rating: 6.3, Goals: None, Assists: None, Shots: None, Passes: 25, Tackles: 2
+Olivier Giroud (France): Rating: 7, Goals: None, Assists: 1, Shots: 1, Passes: 17, Tackles: 1
+Steve Mandanda (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Alphonse Aréola (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Djibril Sidibé (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Adil Rami (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Benjamin Mendy (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Presnel Kimpembe (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Corentin Tolisso (France): Rating: 6.2, Goals: None, Assists: None, Shots: None, Passes: 10, Tackles: 1
+Florian Thauvin (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: 1, Tackles: None
+Steven​ N'Zonzi (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Thomas Lemar (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Nabil Fekir (France): Rating: 6.3, Goals: None, Assists: None, Shots: None, Passes: 4, Tackles: None
+Ousmane Dembélé (France): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Franco Armani (Argentina): Rating: 4.9, Goals: None, Assists: None, Shots: None, Passes: 27, Tackles: None
+Gabriel Mercado (Argentina): Rating: 6.9, Goals: 1, Assists: None, Shots: 1, Passes: 78, Tackles: 1
+Nicolás Otamendi (Argentina): Rating: 6.6, Goals: None, Assists: None, Shots: None, Passes: 77, Tackles: 4
+Marcos Rojo (Argentina): Rating: 5.9, Goals: None, Assists: None, Shots: None, Passes: 25, Tackles: None
+Nicolás Tagliafico (Argentina): Rating: 5.7, Goals: None, Assists: None, Shots: None, Passes: 25, Tackles: 1
+Enzo Pérez (Argentina): Rating: 6.5, Goals: None, Assists: None, Shots: None, Passes: 37, Tackles: None
+Javier Mascherano (Argentina): Rating: 6.6, Goals: None, Assists: None, Shots: None, Passes: 59, Tackles: 3
+Éver Banega (Argentina): Rating: 6.2, Goals: None, Assists: 1, Shots: None, Passes: 61, Tackles: 3
+Cristian Pavón (Argentina): Rating: 6.7, Goals: None, Assists: None, Shots: None, Passes: 25, Tackles: 2
+Lionel Messi (Argentina): Rating: 8.2, Goals: None, Assists: 2, Shots: 1, Passes: 39, Tackles: 1
+Ángel Di María (Argentina): Rating: 7.3, Goals: 1, Assists: None, Shots: 2, Passes: 14, Tackles: None
+Nahuel Guzmán (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Willy Caballero (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Federico Fazio (Argentina): Rating: 6, Goals: None, Assists: None, Shots: None, Passes: 26, Tackles: None
+Marcos Acuña (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Eduardo Salvio (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Maximiliano Meza (Argentina): Rating: 6.9, Goals: None, Assists: None, Shots: None, Passes: 12, Tackles: 1
+Giovani Lo Celso (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Lucas Biglia (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Cristian Ansaldi (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Gonzalo Higuaín (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Paulo Dybala (Argentina): Rating: None, Goals: None, Assists: None, Shots: None, Passes: None, Tackles: None
+Sergio Agüero (Argentina): Rating: 7.2, Goals: 1, Assists: None, Shots: 1, Passes: 7, Tackles: None

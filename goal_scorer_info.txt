@@ -1,0 +1,36 @@
+Goal Scorers:
+- A. Griezmann (France) - 13 min
+  Type: Penalty
+  Assist: None
+  Comment: None
+
+- Á. Di María (Argentina) - 41 min
+  Type: Normal Goal
+  Assist: É. Banega
+  Comment: None
+
+- G. Mercado (Argentina) - 48 min
+  Type: Normal Goal
+  Assist: L. Messi
+  Comment: None
+
+- B. Pavard (France) - 57 min
+  Type: Normal Goal
+  Assist: L. Hernández
+  Comment: None
+
+- K. Mbappé (France) - 64 min
+  Type: Normal Goal
+  Assist: None
+  Comment: None
+
+- K. Mbappé (France) - 68 min
+  Type: Normal Goal
+  Assist: O. Giroud
+  Comment: None
+
+- S. Agüero (Argentina) - 90 min
+  Type: Normal Goal
+  Assist: L. Messi
+  Comment: None
+

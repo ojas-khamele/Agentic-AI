@@ -1,0 +1,41 @@
+Important Match Events:
+- Yellow Card (Yellow Card)
+  Player: Marcos Rojo (Argentina)
+  Minute: 11
+  Comment: Foul
+
+- Yellow Card (Yellow Card)
+  Player: Nicolás Tagliafico (Argentina)
+  Minute: 19
+  Comment: Foul
+
+- Yellow Card (Yellow Card)
+  Player: Javier Mascherano (Argentina)
+  Minute: 43
+  Comment: Foul
+
+- Yellow Card (Yellow Card)
+  Player: Éver Banega (Argentina)
+  Minute: 50
+  Comment: None
+
+- Yellow Card (Yellow Card)
+  Player: Blaise Matuidi (France)
+  Minute: 72
+  Comment: Argument
+
+- Yellow Card (Yellow Card)
+  Player: Benjamin Pavard (France)
+  Minute: 73
+  Comment: Foul
+
+- Yellow Card (Yellow Card)
+  Player: Olivier Giroud (France)
+  Minute: 90
+  Comment: Argument
+
+- Yellow Card (Yellow Card)
+  Player: Nicolás Otamendi (Argentina)
+  Minute: 90
+  Comment: Argument
+

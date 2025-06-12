@@ -1,0 +1,37 @@
+Team Stats Comparison:
+
+France:
+Shots on Goal: 4
+Shots off Goal: 4
+Total Shots: 9
+Blocked Shots: 1
+Shots insidebox: 6
+Shots outsidebox: 3
+Fouls: 21
+Corner Kicks: 0
+Offsides: 0
+Ball Possession: 39%
+Yellow Cards: 3
+Red Cards: None
+Goalkeeper Saves: 1
+Total passes: 344
+Passes accurate: 280
+Passes %: 81%
+
+Argentina:
+Shots on Goal: 4
+Shots off Goal: 1
+Total Shots: 10
+Blocked Shots: 5
+Shots insidebox: 6
+Shots outsidebox: 4
+Fouls: 15
+Corner Kicks: 4
+Offsides: 1
+Ball Possession: 61%
+Yellow Cards: 5
+Red Cards: None
+Goalkeeper Saves: 0
+Total passes: 512
+Passes accurate: 444
+Passes %: 87%
